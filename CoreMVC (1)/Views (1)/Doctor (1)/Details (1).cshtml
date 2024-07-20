@@ -1,0 +1,60 @@
+﻿@using DataEntity
+@using static DataModel.Commons.EnumNames
+@model DoctorEntity
+@{
+    ViewData["Title"] = "Details";
+}
+@using (Html.BeginForm("Details", "Doctor", FormMethod.Post, new { enctype = "multipart/form-data", id = "btnSave" }))
+{
+    <html>
+    <head>
+    </head>
+    </html>
+    <body>
+        @if (ViewBag.Message != null)
+        {
+            <script type="text/javascript">
+                window.onload = function () {
+                    alert("@ViewBag.Message");
+                };
+            </script>
+        }
+
+        <div class="card">
+            <div class="card-header bg-primary text-white text-uppercase">
+                <h4>Student Information</h4>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            @Html.LabelFor(m => m.DoctorName, new { @class = "label" })
+                            @Html.TextBoxFor(m => m.DoctorName, new { @class = "form-control", autocomplete = "off", @readonly = "readonly" })
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            @Html.LabelFor(m => m.Specialization, new { @class = "label" })
+                            @Html.TextBoxFor(m => m.Specialization, new { @class = "form-control", autocomplete = "off", @readonly = "readonly" })
+                        </div>
+                    </div>
+                </div>
+         
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="form-group">
+                            @Html.LabelFor(m => m.Contact, new { @class = "label" })
+                            @Html.TextBoxFor(m => m.Contact, new { @class = "form-control", autocomplete = "off", @readonly = "readonly" })
+                        </div>
+                    </div>
+              
+             
+                </div>
+            </div>
+        </div>
+    </body>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index", "Doctor")
+</div>

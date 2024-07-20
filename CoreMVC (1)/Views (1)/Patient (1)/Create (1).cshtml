@@ -1,0 +1,95 @@
+﻿@using DataEntity
+@using static DataModel.Commons.EnumNames
+@model PatientEntity
+@{
+    ViewData["Title"] = "Create";
+}
+@using (Html.BeginForm("Create", "Patient", FormMethod.Post, new { enctype = "multipart/form-data", id = "btnSave" }))
+{
+    <html>
+    <head>
+        <style type="text/css">
+            .field-validation-error {
+                color: #f00;
+            }
+
+            .field-validation-valid {
+                display: none;
+            }
+
+            .input-validation-error {
+                border: 4px solid #f00;
+                background-color: #fee;
+            }
+        </style>
+    </head>
+    </html>
+    <body>
+        @if (ViewBag.Message != null)
+        {
+            <script type="text/javascript">
+                window.onload = function () {
+                    alert("@ViewBag.Message");
+                };
+            </script>
+        }
+
+        <div class="card">
+            <div class="card-header bg-primary text-white text-uppercase">
+                <h4>Patient Infomation</h4>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            @Html.LabelFor(m => m.PatientName, new { @class = "label" }) <span class="label-text">*</span>
+                            @Html.TextBoxFor(m => m.PatientName, new { @placeholder = "Please enter Full name", @class = "form-control", autocomplete = "off" })
+                            <span asp-validation-for="PatientName" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            @Html.LabelFor(m => m.Age, new { @class = "label" }) <span class="label-text">*</span>
+                            @Html.TextBoxFor(m => m.Age, new { @placeholder = "Please enter Age", @class = "form-control", autocomplete = "off" })
+                            <span asp-validation-for="Age" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            @Html.LabelFor(m => m.Gender, new { @class = "label" }) <span class="label-text">*</span>
+                            @Html.DropDownListFor(m => m.Gender, Html.GetEnumSelectList<MyEnum>(), "Please select", new { @class = "form-control", @id = "idGender" })
+
+                            <span asp-validation-for="Gender" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-4">
+                        <div class="form-group">
+                            @Html.LabelFor(m => m.Address, new { @class = "label" }) <span class="label-text">*</span>
+                            @Html.TextBoxFor(m => m.Address, new { @placeholder = "Please enter email", @class = "form-control", autocomplete = "off" })
+                            <span asp-validation-for="Address" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+                @* <div class="row"> 
+                    <div class="col-md-4">
+                        <div class="form-group">
+                            @Html.LabelFor(m => m.Contact, new { @class = "label" }) <span class="label-text">*</span>
+                            @Html.TextBoxFor(m => m.Contact, new { @placeholder = "Please enter phoneNo", @class = "form-control", autocomplete = "off" })
+                            <span asp-validation-for="Contact" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>  *@
+
+                <div class="form-group">
+                    <button type="submit" class="btn btn-primary rounded-0">Save</button>
+                </div>
+               </div>
+          </div>
+    </body>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index", "Patient")
+</div>

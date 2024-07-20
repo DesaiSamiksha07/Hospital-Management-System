@@ -1,0 +1,87 @@
+﻿@using DataEntity
+@using static DataModel.Commons.EnumNames
+@model DoctorEntity
+@{
+    ViewData["Title"] = "Create";
+}
+@using(Html.BeginForm("Create","Doctor",FormMethod.Post,new {enctype = "multipart/form-data" , id="btnSave"}))
+{
+    <html>
+        <head>
+            <style type="text/css">
+                .field-validation-error{
+                    color:#f00;
+                }
+
+            .field-validation-valid {
+                display:none;
+            }
+
+            .input-validation-error {
+                border:4px solid #f00;
+                background-color: #fee;
+                
+            }
+            </style>
+        </head>
+    </html>
+    <body>
+        @if (ViewBag.Message != null)
+        {
+            <script type="text/javascript">
+                window.onload = function () {
+                    alert("@ViewBag.Message");
+                };
+            </script>
+        }
+  
+        <div class="card">
+            <div class="card-header bg-primary text-white text-uppercase">
+                <h4>Student Infomation</h4>
+            </div>
+            <div class="card-body">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            @Html.LabelFor(m => m.DoctorName, new { @class = "label" }) <span class="label-text">*</span>
+                            @Html.TextBoxFor(m => m.DoctorName, new { @placeholder = "Please enter first name", @class = "form-control", autocomplete = "off" })
+                            <span asp-validation-for="DoctorName" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="form-group">
+                            @Html.LabelFor(m => m.Specialization, new { @class = "label" }) <span class="label-text">*</span>
+                            @Html.TextBoxFor(m => m.Specialization, new { @placeholder = "Please enter last name", @class = "form-control", autocomplete = "off" })
+                            <span asp-validation-for="Specialization" class="text-danger"></span>
+                        </div>
+                    </div>
+                </div>
+      
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="form-group">
+                            @Html.LabelFor(m => m.Contact, new { @class = "label" }) <span class="label-text">*</span>
+                            @Html.TextBoxFor(m => m.Contact, new { @placeholder = "Please enter phoneNo", @class = "form-control", autocomplete = "off" })
+                            <span asp-validation-for="Contact" class="text-danger"></span>
+                        </div>
+                    </div>
+                    
+                </div>
+                <div>
+
+                </div>
+
+                <div class="form-group">
+                    <button type="submit" class="btn btn-primary rounded-0">Save</button>
+                </div>
+            
+
+            </div>
+
+        </div>
+    </body>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index", "Doctor")
+</div>
