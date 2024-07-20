@@ -1,0 +1,372 @@
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\appsettings.json
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\CoreMVC.staticwebassets.runtime.json
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\CoreMVC.exe
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\CoreMVC.deps.json
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\CoreMVC.runtimeconfig.json
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\CoreMVC.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\CoreMVC.pdb
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\CoreMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\CoreMVC.AssemblyInfoInputs.cache
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\CoreMVC.AssemblyInfo.cs
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\CoreMVC.csproj.CoreCompileInputs.cache
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\CoreMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\CoreMVC.RazorAssemblyInfo.cache
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\CoreMVC.RazorAssemblyInfo.cs
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\staticwebassets\msbuild.CoreMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.CoreMVC.props
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CoreMVC.props
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CoreMVC.props
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\scopedcss\bundle\CoreMVC.styles.css
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\scopedcss\projectbundle\CoreMVC.bundle.scp.css
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\CoreMVC.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\refint\CoreMVC.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\CoreMVC.pdb
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\CoreMVC.genruntimeconfig.cache
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\ref\CoreMVC.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\DataEntity.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\DataEntity.pdb
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\CoreMVC.csproj.AssemblyReference.cache
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\CoreMVC.csproj.Up2Date
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\AspNetCoreHero.ToastNotification.Views.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\AspNetCoreHero.ToastNotification.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\DataModel.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\DataModel.pdb
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\CoreMVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\App_Data\myConnection.json
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\appsettings.Development.json
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\appsettings.json
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\App_Data\myConnection.json
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\CoreMVC.staticwebassets.runtime.json
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\CoreMVC.exe
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\CoreMVC.deps.json
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\CoreMVC.runtimeconfig.json
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\CoreMVC.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\CoreMVC.pdb
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\AspNetCoreHero.ToastNotification.Views.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\AspNetCoreHero.ToastNotification.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Azure.Core.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Azure.Identity.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\System.Memory.Data.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\DataAccess.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\DataEntity.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\DataModel.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\DataAccess.pdb
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\DataEntity.pdb
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\bin\Debug\net6.0\DataModel.pdb
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\CoreMVC.csproj.AssemblyReference.cache
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\CoreMVC.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\CoreMVC.AssemblyInfoInputs.cache
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\CoreMVC.AssemblyInfo.cs
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\CoreMVC.csproj.CoreCompileInputs.cache
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\CoreMVC.MvcApplicationPartsAssemblyInfo.cs
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\CoreMVC.MvcApplicationPartsAssemblyInfo.cache
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\CoreMVC.RazorAssemblyInfo.cache
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\CoreMVC.RazorAssemblyInfo.cs
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\staticwebassets.build.json
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\staticwebassets.development.json
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\staticwebassets\msbuild.CoreMVC.Microsoft.AspNetCore.StaticWebAssets.props
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.CoreMVC.props
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CoreMVC.props
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CoreMVC.props
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\staticwebassets.pack.json
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\scopedcss\bundle\CoreMVC.styles.css
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\scopedcss\projectbundle\CoreMVC.bundle.scp.css
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\CoreMVC.csproj.Up2Date
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\CoreMVC.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\refint\CoreMVC.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\CoreMVC.pdb
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\CoreMVC.genruntimeconfig.cache
+E:\project\DemoCoreAPIClient\CoreApplication\CoreMVC\obj\Debug\net6.0\ref\CoreMVC.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\obj\Debug\net6.0\CoreMVC.csproj.AssemblyReference.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\obj\Debug\net6.0\CoreMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\obj\Debug\net6.0\CoreMVC.AssemblyInfoInputs.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\obj\Debug\net6.0\CoreMVC.AssemblyInfo.cs
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\obj\Debug\net6.0\CoreMVC.csproj.CoreCompileInputs.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\obj\Debug\net6.0\CoreMVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\obj\Debug\net6.0\CoreMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\obj\Debug\net6.0\CoreMVC.RazorAssemblyInfo.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\obj\Debug\net6.0\CoreMVC.RazorAssemblyInfo.cs
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\obj\Debug\net6.0\CoreMVC.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\obj\Debug\net6.0\refint\CoreMVC.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\obj\Debug\net6.0\CoreMVC.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\App_Data\myConnection.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\appsettings.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\CoreMVC.staticwebassets.runtime.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\CoreMVC.exe
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\CoreMVC.deps.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\CoreMVC.runtimeconfig.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\CoreMVC.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\CoreMVC.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\AspNetCoreHero.ToastNotification.Views.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\AspNetCoreHero.ToastNotification.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\DataAccess.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\DataEntity.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\DataModel.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\DataEntity.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\bin\Debug\net6.0\DataModel.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\obj\Debug\net6.0\staticwebassets\msbuild.CoreMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.CoreMVC.props
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CoreMVC.props
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CoreMVC.props
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\obj\Debug\net6.0\scopedcss\bundle\CoreMVC.styles.css
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\obj\Debug\net6.0\scopedcss\projectbundle\CoreMVC.bundle.scp.css
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\obj\Debug\net6.0\CoreMVC.csproj.Up2Date
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\obj\Debug\net6.0\CoreMVC.genruntimeconfig.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreMVC\obj\Debug\net6.0\ref\CoreMVC.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\obj\Debug\net6.0\CoreMVC.csproj.AssemblyReference.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\obj\Debug\net6.0\CoreMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\obj\Debug\net6.0\CoreMVC.AssemblyInfoInputs.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\obj\Debug\net6.0\CoreMVC.AssemblyInfo.cs
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\obj\Debug\net6.0\CoreMVC.csproj.CoreCompileInputs.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\obj\Debug\net6.0\CoreMVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\obj\Debug\net6.0\CoreMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\obj\Debug\net6.0\CoreMVC.RazorAssemblyInfo.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\obj\Debug\net6.0\CoreMVC.RazorAssemblyInfo.cs
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\obj\Debug\net6.0\CoreMVC.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\obj\Debug\net6.0\refint\CoreMVC.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\obj\Debug\net6.0\CoreMVC.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\appsettings.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\App_Data\myConnection.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\CoreMVC.staticwebassets.runtime.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\CoreMVC.exe
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\CoreMVC.deps.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\CoreMVC.runtimeconfig.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\CoreMVC.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\CoreMVC.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\AspNetCoreHero.ToastNotification.Views.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\AspNetCoreHero.ToastNotification.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\DataAccess.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\DataEntity.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\DataModel.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\DataEntity.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\bin\Debug\net6.0\DataModel.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\obj\Debug\net6.0\staticwebassets\msbuild.CoreMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.CoreMVC.props
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CoreMVC.props
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CoreMVC.props
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\obj\Debug\net6.0\scopedcss\bundle\CoreMVC.styles.css
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\obj\Debug\net6.0\scopedcss\projectbundle\CoreMVC.bundle.scp.css
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\obj\Debug\net6.0\CoreMVC.csproj.Up2Date
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\obj\Debug\net6.0\CoreMVC.genruntimeconfig.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreMVC\obj\Debug\net6.0\ref\CoreMVC.dll
