@@ -1,0 +1,109 @@
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreApplication\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreApplication\bin\Debug\net8.0\appsettings.json
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreApplication\bin\Debug\net8.0\CoreApplication.exe
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreApplication\bin\Debug\net8.0\CoreApplication.deps.json
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreApplication\bin\Debug\net8.0\CoreApplication.runtimeconfig.json
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreApplication\bin\Debug\net8.0\CoreApplication.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreApplication\bin\Debug\net8.0\CoreApplication.pdb
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\CoreApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\CoreApplication.AssemblyInfoInputs.cache
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\CoreApplication.AssemblyInfo.cs
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\CoreApplication.csproj.CoreCompileInputs.cache
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\CoreApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\staticwebassets\msbuild.CoreApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\staticwebassets\msbuild.build.CoreApplication.props
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CoreApplication.props
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CoreApplication.props
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\scopedcss\bundle\CoreApplication.styles.css
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\CoreApplication.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\refint\CoreApplication.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\CoreApplication.pdb
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\CoreApplication.genruntimeconfig.cache
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\ref\CoreApplication.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreApplication\bin\Debug\net8.0\appsettings.Development.json
+E:\project\DemoCoreAPIClient\CoreApplication\CoreApplication\bin\Debug\net8.0\appsettings.json
+E:\project\DemoCoreAPIClient\CoreApplication\CoreApplication\bin\Debug\net8.0\CoreApplication.exe
+E:\project\DemoCoreAPIClient\CoreApplication\CoreApplication\bin\Debug\net8.0\CoreApplication.deps.json
+E:\project\DemoCoreAPIClient\CoreApplication\CoreApplication\bin\Debug\net8.0\CoreApplication.runtimeconfig.json
+E:\project\DemoCoreAPIClient\CoreApplication\CoreApplication\bin\Debug\net8.0\CoreApplication.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreApplication\bin\Debug\net8.0\CoreApplication.pdb
+E:\project\DemoCoreAPIClient\CoreApplication\CoreApplication\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\CoreApplication.csproj.AssemblyReference.cache
+E:\project\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\CoreApplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\CoreApplication.AssemblyInfoInputs.cache
+E:\project\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\CoreApplication.AssemblyInfo.cs
+E:\project\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\CoreApplication.csproj.CoreCompileInputs.cache
+E:\project\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\CoreApplication.MvcApplicationPartsAssemblyInfo.cache
+E:\project\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\staticwebassets.build.json
+E:\project\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\staticwebassets.development.json
+E:\project\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\staticwebassets\msbuild.CoreApplication.Microsoft.AspNetCore.StaticWebAssets.props
+E:\project\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\staticwebassets\msbuild.build.CoreApplication.props
+E:\project\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CoreApplication.props
+E:\project\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CoreApplication.props
+E:\project\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\staticwebassets.pack.json
+E:\project\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\scopedcss\bundle\CoreApplication.styles.css
+E:\project\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\CoreAppl.3B7A61D8.Up2Date
+E:\project\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\CoreApplication.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\refint\CoreApplication.dll
+E:\project\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\CoreApplication.pdb
+E:\project\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\CoreApplication.genruntimeconfig.cache
+E:\project\DemoCoreAPIClient\CoreApplication\CoreApplication\obj\Debug\net8.0\ref\CoreApplication.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreApplication\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreApplication\bin\Debug\net8.0\appsettings.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreApplication\bin\Debug\net8.0\CoreApplication.exe
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreApplication\bin\Debug\net8.0\CoreApplication.deps.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreApplication\bin\Debug\net8.0\CoreApplication.runtimeconfig.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreApplication\bin\Debug\net8.0\CoreApplication.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreApplication\bin\Debug\net8.0\CoreApplication.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreApplication\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreApplication\obj\Debug\net8.0\CoreApplication.csproj.AssemblyReference.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreApplication\obj\Debug\net8.0\CoreApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreApplication\obj\Debug\net8.0\CoreApplication.AssemblyInfoInputs.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreApplication\obj\Debug\net8.0\CoreApplication.AssemblyInfo.cs
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreApplication\obj\Debug\net8.0\CoreApplication.csproj.CoreCompileInputs.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreApplication\obj\Debug\net8.0\CoreApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreApplication\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreApplication\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreApplication\obj\Debug\net8.0\staticwebassets\msbuild.CoreApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreApplication\obj\Debug\net8.0\staticwebassets\msbuild.build.CoreApplication.props
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CoreApplication.props
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CoreApplication.props
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreApplication\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreApplication\obj\Debug\net8.0\scopedcss\bundle\CoreApplication.styles.css
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreApplication\obj\Debug\net8.0\CoreAppl.3B7A61D8.Up2Date
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreApplication\obj\Debug\net8.0\CoreApplication.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreApplication\obj\Debug\net8.0\refint\CoreApplication.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreApplication\obj\Debug\net8.0\CoreApplication.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreApplication\obj\Debug\net8.0\CoreApplication.genruntimeconfig.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\CoreApplication\obj\Debug\net8.0\ref\CoreApplication.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreApplication\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreApplication\bin\Debug\net8.0\appsettings.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreApplication\bin\Debug\net8.0\CoreApplication.exe
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreApplication\bin\Debug\net8.0\CoreApplication.deps.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreApplication\bin\Debug\net8.0\CoreApplication.runtimeconfig.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreApplication\bin\Debug\net8.0\CoreApplication.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreApplication\bin\Debug\net8.0\CoreApplication.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreApplication\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreApplication\obj\Debug\net8.0\CoreApplication.csproj.AssemblyReference.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreApplication\obj\Debug\net8.0\CoreApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreApplication\obj\Debug\net8.0\CoreApplication.AssemblyInfoInputs.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreApplication\obj\Debug\net8.0\CoreApplication.AssemblyInfo.cs
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreApplication\obj\Debug\net8.0\CoreApplication.csproj.CoreCompileInputs.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreApplication\obj\Debug\net8.0\CoreApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreApplication\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreApplication\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreApplication\obj\Debug\net8.0\staticwebassets\msbuild.CoreApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreApplication\obj\Debug\net8.0\staticwebassets\msbuild.build.CoreApplication.props
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CoreApplication.props
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CoreApplication.props
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreApplication\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreApplication\obj\Debug\net8.0\scopedcss\bundle\CoreApplication.styles.css
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreApplication\obj\Debug\net8.0\CoreAppl.3B7A61D8.Up2Date
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreApplication\obj\Debug\net8.0\CoreApplication.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreApplication\obj\Debug\net8.0\refint\CoreApplication.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreApplication\obj\Debug\net8.0\CoreApplication.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreApplication\obj\Debug\net8.0\CoreApplication.genruntimeconfig.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\CoreApplication\obj\Debug\net8.0\ref\CoreApplication.dll
