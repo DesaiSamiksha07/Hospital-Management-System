@@ -1,0 +1,5 @@
+{
+  "name": "dbHMS",
+  "DBConnection": "Data Source=DESKTOP-QSEUCTB\\SQLEXPRESS;Initial Catalog=dbHMS;User ID=sa;Encrypt=False"
+}
+
