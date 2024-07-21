@@ -1,0 +1,4 @@
+{
+  "name": "DBCoaching",
+  "DBConnection": "Data Source=LAPTOP-E4F5A71K;Initial Catalog=DBCoaching;Integrated Security=True;Encrypt=False"
+}
