@@ -1,0 +1,60 @@
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataEntity\bin\Debug\net6.0\DataEntity.deps.json
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataEntity\bin\Debug\net6.0\DataEntity.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataEntity\bin\Debug\net6.0\DataEntity.pdb
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataEntity\obj\Debug\net6.0\DataEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataEntity\obj\Debug\net6.0\DataEntity.AssemblyInfoInputs.cache
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataEntity\obj\Debug\net6.0\DataEntity.AssemblyInfo.cs
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataEntity\obj\Debug\net6.0\DataEntity.csproj.CoreCompileInputs.cache
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataEntity\obj\Debug\net6.0\DataEntity.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataEntity\obj\Debug\net6.0\refint\DataEntity.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataEntity\obj\Debug\net6.0\DataEntity.pdb
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataEntity\obj\Debug\net6.0\ref\DataEntity.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataEntity\obj\Debug\net6.0\DataEntity.csproj.AssemblyReference.cache
+E:\project\DemoCoreAPIClient\CoreApplication\DataEntity\bin\Debug\net6.0\DataEntity.deps.json
+E:\project\DemoCoreAPIClient\CoreApplication\DataEntity\bin\Debug\net6.0\DataEntity.dll
+E:\project\DemoCoreAPIClient\CoreApplication\DataEntity\bin\Debug\net6.0\DataEntity.pdb
+E:\project\DemoCoreAPIClient\CoreApplication\DataEntity\obj\Debug\net6.0\DataEntity.csproj.AssemblyReference.cache
+E:\project\DemoCoreAPIClient\CoreApplication\DataEntity\obj\Debug\net6.0\DataEntity.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\DemoCoreAPIClient\CoreApplication\DataEntity\obj\Debug\net6.0\DataEntity.AssemblyInfoInputs.cache
+E:\project\DemoCoreAPIClient\CoreApplication\DataEntity\obj\Debug\net6.0\DataEntity.AssemblyInfo.cs
+E:\project\DemoCoreAPIClient\CoreApplication\DataEntity\obj\Debug\net6.0\DataEntity.csproj.CoreCompileInputs.cache
+E:\project\DemoCoreAPIClient\CoreApplication\DataEntity\obj\Debug\net6.0\DataEntity.dll
+E:\project\DemoCoreAPIClient\CoreApplication\DataEntity\obj\Debug\net6.0\refint\DataEntity.dll
+E:\project\DemoCoreAPIClient\CoreApplication\DataEntity\obj\Debug\net6.0\DataEntity.pdb
+E:\project\DemoCoreAPIClient\CoreApplication\DataEntity\obj\Debug\net6.0\ref\DataEntity.dll
+C:\Users\55\Desktop\CoreApplicationNandini\DataEntity\bin\Debug\net6.0\DataEntity.deps.json
+C:\Users\55\Desktop\CoreApplicationNandini\DataEntity\bin\Debug\net6.0\DataEntity.dll
+C:\Users\55\Desktop\CoreApplicationNandini\DataEntity\bin\Debug\net6.0\DataEntity.pdb
+C:\Users\55\Desktop\CoreApplicationNandini\DataEntity\obj\Debug\net6.0\DataEntity.csproj.AssemblyReference.cache
+C:\Users\55\Desktop\CoreApplicationNandini\DataEntity\obj\Debug\net6.0\DataEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55\Desktop\CoreApplicationNandini\DataEntity\obj\Debug\net6.0\DataEntity.AssemblyInfoInputs.cache
+C:\Users\55\Desktop\CoreApplicationNandini\DataEntity\obj\Debug\net6.0\DataEntity.AssemblyInfo.cs
+C:\Users\55\Desktop\CoreApplicationNandini\DataEntity\obj\Debug\net6.0\DataEntity.csproj.CoreCompileInputs.cache
+C:\Users\55\Desktop\CoreApplicationNandini\DataEntity\obj\Debug\net6.0\DataEntity.dll
+C:\Users\55\Desktop\CoreApplicationNandini\DataEntity\obj\Debug\net6.0\refint\DataEntity.dll
+C:\Users\55\Desktop\CoreApplicationNandini\DataEntity\obj\Debug\net6.0\DataEntity.pdb
+C:\Users\55\Desktop\CoreApplicationNandini\DataEntity\obj\Debug\net6.0\ref\DataEntity.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataEntity\bin\Debug\net6.0\DataEntity.deps.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataEntity\bin\Debug\net6.0\DataEntity.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataEntity\bin\Debug\net6.0\DataEntity.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataEntity\obj\Debug\net6.0\DataEntity.csproj.AssemblyReference.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataEntity\obj\Debug\net6.0\DataEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataEntity\obj\Debug\net6.0\DataEntity.AssemblyInfoInputs.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataEntity\obj\Debug\net6.0\DataEntity.AssemblyInfo.cs
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataEntity\obj\Debug\net6.0\DataEntity.csproj.CoreCompileInputs.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataEntity\obj\Debug\net6.0\DataEntity.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataEntity\obj\Debug\net6.0\refint\DataEntity.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataEntity\obj\Debug\net6.0\DataEntity.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataEntity\obj\Debug\net6.0\ref\DataEntity.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataEntity\bin\Debug\net6.0\DataEntity.deps.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataEntity\bin\Debug\net6.0\DataEntity.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataEntity\bin\Debug\net6.0\DataEntity.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataEntity\obj\Debug\net6.0\DataEntity.csproj.AssemblyReference.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataEntity\obj\Debug\net6.0\DataEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataEntity\obj\Debug\net6.0\DataEntity.AssemblyInfoInputs.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataEntity\obj\Debug\net6.0\DataEntity.AssemblyInfo.cs
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataEntity\obj\Debug\net6.0\DataEntity.csproj.CoreCompileInputs.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataEntity\obj\Debug\net6.0\DataEntity.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataEntity\obj\Debug\net6.0\refint\DataEntity.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataEntity\obj\Debug\net6.0\DataEntity.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataEntity\obj\Debug\net6.0\ref\DataEntity.dll

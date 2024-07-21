@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DataEntity/1.0.0": {
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.Abstractions": "7.0.15"
+        },
+        "runtime": {
+          "DataEntity.dll": {}
+        }
+      },
+      "Microsoft.EntityFrameworkCore.Abstractions/7.0.15": {
+        "runtime": {
+          "lib/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll": {
+            "assemblyVersion": "7.0.15.0",
+            "fileVersion": "7.0.1523.57109"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DataEntity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.EntityFrameworkCore.Abstractions/7.0.15": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-YZYw1g0EGGkWdC+ymHRccQryerGyh7XlcL8nRo3r7kkPurPJgVCCtC+PK5pBwJGPDdwCYMrwHSoAtfEWcqqQjQ==",
+      "path": "microsoft.entityframeworkcore.abstractions/7.0.15",
+      "hashPath": "microsoft.entityframeworkcore.abstractions.7.0.15.nupkg.sha512"
+    }
+  }
+}

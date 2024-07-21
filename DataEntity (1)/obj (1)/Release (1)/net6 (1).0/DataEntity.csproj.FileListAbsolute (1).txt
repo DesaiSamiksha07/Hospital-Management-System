@@ -1,0 +1,12 @@
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataEntity\bin\Release\net6.0\DataEntity.deps.json
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataEntity\bin\Release\net6.0\DataEntity.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataEntity\bin\Release\net6.0\DataEntity.pdb
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataEntity\obj\Release\net6.0\DataEntity.csproj.AssemblyReference.cache
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataEntity\obj\Release\net6.0\DataEntity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataEntity\obj\Release\net6.0\DataEntity.AssemblyInfoInputs.cache
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataEntity\obj\Release\net6.0\DataEntity.AssemblyInfo.cs
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataEntity\obj\Release\net6.0\DataEntity.csproj.CoreCompileInputs.cache
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataEntity\obj\Release\net6.0\DataEntity.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataEntity\obj\Release\net6.0\refint\DataEntity.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataEntity\obj\Release\net6.0\DataEntity.pdb
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataEntity\obj\Release\net6.0\ref\DataEntity.dll
