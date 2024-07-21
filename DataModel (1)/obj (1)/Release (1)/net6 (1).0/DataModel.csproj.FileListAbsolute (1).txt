@@ -1,0 +1,17 @@
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\bin\Release\net6.0\DataModel.deps.json
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\bin\Release\net6.0\DataModel.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\bin\Release\net6.0\DataModel.pdb
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\bin\Release\net6.0\DataAccess.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\bin\Release\net6.0\DataEntity.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\bin\Release\net6.0\DataAccess.pdb
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\bin\Release\net6.0\DataEntity.pdb
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\obj\Release\net6.0\DataModel.csproj.AssemblyReference.cache
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\obj\Release\net6.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\obj\Release\net6.0\DataModel.AssemblyInfoInputs.cache
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\obj\Release\net6.0\DataModel.AssemblyInfo.cs
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\obj\Release\net6.0\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\obj\Release\net6.0\DataModel.csproj.Up2Date
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\obj\Release\net6.0\DataModel.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\obj\Release\net6.0\refint\DataModel.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\obj\Release\net6.0\DataModel.pdb
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\obj\Release\net6.0\ref\DataModel.dll

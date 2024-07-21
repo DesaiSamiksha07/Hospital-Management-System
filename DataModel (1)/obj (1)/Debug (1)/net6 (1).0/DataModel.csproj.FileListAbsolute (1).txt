@@ -1,0 +1,85 @@
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\bin\Debug\net6.0\DataModel.deps.json
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\bin\Debug\net6.0\DataModel.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\bin\Debug\net6.0\DataModel.pdb
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\bin\Debug\net6.0\DataEntity.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\bin\Debug\net6.0\DataEntity.pdb
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\obj\Debug\net6.0\DataModel.csproj.AssemblyReference.cache
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\obj\Debug\net6.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfoInputs.cache
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfo.cs
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\obj\Debug\net6.0\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\obj\Debug\net6.0\DataModel.csproj.Up2Date
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\obj\Debug\net6.0\DataModel.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\obj\Debug\net6.0\refint\DataModel.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\obj\Debug\net6.0\DataModel.pdb
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataModel\obj\Debug\net6.0\ref\DataModel.dll
+E:\project\DemoCoreAPIClient\CoreApplication\DataModel\bin\Debug\net6.0\DataModel.deps.json
+E:\project\DemoCoreAPIClient\CoreApplication\DataModel\bin\Debug\net6.0\DataModel.dll
+E:\project\DemoCoreAPIClient\CoreApplication\DataModel\bin\Debug\net6.0\DataModel.pdb
+E:\project\DemoCoreAPIClient\CoreApplication\DataModel\bin\Debug\net6.0\DataAccess.dll
+E:\project\DemoCoreAPIClient\CoreApplication\DataModel\bin\Debug\net6.0\DataEntity.dll
+E:\project\DemoCoreAPIClient\CoreApplication\DataModel\bin\Debug\net6.0\DataAccess.pdb
+E:\project\DemoCoreAPIClient\CoreApplication\DataModel\bin\Debug\net6.0\DataEntity.pdb
+E:\project\DemoCoreAPIClient\CoreApplication\DataModel\obj\Debug\net6.0\DataModel.csproj.AssemblyReference.cache
+E:\project\DemoCoreAPIClient\CoreApplication\DataModel\obj\Debug\net6.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\DemoCoreAPIClient\CoreApplication\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfoInputs.cache
+E:\project\DemoCoreAPIClient\CoreApplication\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfo.cs
+E:\project\DemoCoreAPIClient\CoreApplication\DataModel\obj\Debug\net6.0\DataModel.csproj.CoreCompileInputs.cache
+E:\project\DemoCoreAPIClient\CoreApplication\DataModel\obj\Debug\net6.0\DataModel.csproj.Up2Date
+E:\project\DemoCoreAPIClient\CoreApplication\DataModel\obj\Debug\net6.0\DataModel.dll
+E:\project\DemoCoreAPIClient\CoreApplication\DataModel\obj\Debug\net6.0\refint\DataModel.dll
+E:\project\DemoCoreAPIClient\CoreApplication\DataModel\obj\Debug\net6.0\DataModel.pdb
+E:\project\DemoCoreAPIClient\CoreApplication\DataModel\obj\Debug\net6.0\ref\DataModel.dll
+C:\Users\55\Desktop\CoreApplicationNandini\DataModel\bin\Debug\net6.0\DataModel.deps.json
+C:\Users\55\Desktop\CoreApplicationNandini\DataModel\bin\Debug\net6.0\DataModel.dll
+C:\Users\55\Desktop\CoreApplicationNandini\DataModel\bin\Debug\net6.0\DataModel.pdb
+C:\Users\55\Desktop\CoreApplicationNandini\DataModel\bin\Debug\net6.0\DataAccess.dll
+C:\Users\55\Desktop\CoreApplicationNandini\DataModel\bin\Debug\net6.0\DataEntity.dll
+C:\Users\55\Desktop\CoreApplicationNandini\DataModel\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\55\Desktop\CoreApplicationNandini\DataModel\bin\Debug\net6.0\DataEntity.pdb
+C:\Users\55\Desktop\CoreApplicationNandini\DataModel\obj\Debug\net6.0\DataModel.csproj.AssemblyReference.cache
+C:\Users\55\Desktop\CoreApplicationNandini\DataModel\obj\Debug\net6.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55\Desktop\CoreApplicationNandini\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfoInputs.cache
+C:\Users\55\Desktop\CoreApplicationNandini\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfo.cs
+C:\Users\55\Desktop\CoreApplicationNandini\DataModel\obj\Debug\net6.0\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\55\Desktop\CoreApplicationNandini\DataModel\obj\Debug\net6.0\DataModel.csproj.Up2Date
+C:\Users\55\Desktop\CoreApplicationNandini\DataModel\obj\Debug\net6.0\DataModel.dll
+C:\Users\55\Desktop\CoreApplicationNandini\DataModel\obj\Debug\net6.0\refint\DataModel.dll
+C:\Users\55\Desktop\CoreApplicationNandini\DataModel\obj\Debug\net6.0\DataModel.pdb
+C:\Users\55\Desktop\CoreApplicationNandini\DataModel\obj\Debug\net6.0\ref\DataModel.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataModel\obj\Debug\net6.0\DataModel.csproj.AssemblyReference.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataModel\obj\Debug\net6.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfoInputs.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfo.cs
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataModel\obj\Debug\net6.0\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataModel\obj\Debug\net6.0\DataModel.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataModel\obj\Debug\net6.0\refint\DataModel.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataModel\obj\Debug\net6.0\DataModel.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataModel\bin\Debug\net6.0\DataModel.deps.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataModel\bin\Debug\net6.0\DataModel.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataModel\bin\Debug\net6.0\DataModel.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataModel\bin\Debug\net6.0\DataAccess.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataModel\bin\Debug\net6.0\DataEntity.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataModel\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataModel\bin\Debug\net6.0\DataEntity.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataModel\obj\Debug\net6.0\DataModel.csproj.Up2Date
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataModel\obj\Debug\net6.0\ref\DataModel.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataModel\obj\Debug\net6.0\DataModel.csproj.AssemblyReference.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataModel\obj\Debug\net6.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfoInputs.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfo.cs
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataModel\obj\Debug\net6.0\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataModel\obj\Debug\net6.0\DataModel.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataModel\obj\Debug\net6.0\refint\DataModel.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataModel\obj\Debug\net6.0\DataModel.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataModel\bin\Debug\net6.0\DataModel.deps.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataModel\bin\Debug\net6.0\DataModel.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataModel\bin\Debug\net6.0\DataModel.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataModel\bin\Debug\net6.0\DataAccess.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataModel\bin\Debug\net6.0\DataEntity.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataModel\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataModel\bin\Debug\net6.0\DataEntity.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataModel\obj\Debug\net6.0\DataModel.csproj.Up2Date
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataModel\obj\Debug\net6.0\ref\DataModel.dll
