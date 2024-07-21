@@ -1,0 +1,10 @@
+[
+  {
+    "name": "dbHMS1",
+    "DBConnection": "Data Source=DESKTOP-QSEUCTB\\\\SQLEXPRESS;Initial Catalog=dbHMS; User ID=sa; Password=***********; Encrypt=False"
+  },
+  {
+    "name": "dbHMS2",
+    "DBConnection": "Data Source=DESKTOP-QSEUCTB\\\\SQLEXPRESS;Initial Catalog=dbHMS; User ID=sa; Password=***********; Encrypt=False"
+  }
+]

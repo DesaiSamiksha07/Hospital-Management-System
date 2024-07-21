@@ -1,0 +1,12 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "ConnectionStrings": {
+    "DefaultConnection": "Data Source=DESKTOP-QSEUCTB\\SQLEXPRESS;Initial Catalog=dbHMS;UserID=sa; Password=***********; Encrypt=False"
+  }
+}
