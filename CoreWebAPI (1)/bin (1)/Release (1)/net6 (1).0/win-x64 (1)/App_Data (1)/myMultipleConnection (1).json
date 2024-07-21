@@ -1,0 +1,10 @@
+[
+  {
+    "name": "DBCoaching1",
+    "DBConnection": "Data Source=LAPTOP-E4F5A71K;Initial Catalog=DBCoaching;Integrated Security=True;Encrypt=False"
+  },
+  {
+    "name": "DBCoaching2",
+    "DBConnection": "Data Source=LAPTOP-E4F5A71K;Initial Catalog=DBCoaching;Integrated Security=True;Encrypt=False"
+  }
+]
