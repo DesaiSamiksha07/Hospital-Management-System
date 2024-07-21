@@ -1,0 +1,75 @@
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataAccess\bin\Debug\net6.0\DataEntity.dll
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataAccess\bin\Debug\net6.0\DataEntity.pdb
+C:\Users\Sachin\source\repos\DemoCoreAPIClient\CoreApplication\DataAccess\obj\Debug\net6.0\DataAccess.csproj.Up2Date
+E:\project\DemoCoreAPIClient\CoreApplication\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+E:\project\DemoCoreAPIClient\CoreApplication\DataAccess\bin\Debug\net6.0\DataAccess.dll
+E:\project\DemoCoreAPIClient\CoreApplication\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+E:\project\DemoCoreAPIClient\CoreApplication\DataAccess\bin\Debug\net6.0\DataEntity.dll
+E:\project\DemoCoreAPIClient\CoreApplication\DataAccess\bin\Debug\net6.0\DataEntity.pdb
+E:\project\DemoCoreAPIClient\CoreApplication\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+E:\project\DemoCoreAPIClient\CoreApplication\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\project\DemoCoreAPIClient\CoreApplication\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+E:\project\DemoCoreAPIClient\CoreApplication\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+E:\project\DemoCoreAPIClient\CoreApplication\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\project\DemoCoreAPIClient\CoreApplication\DataAccess\obj\Debug\net6.0\DataAccess.csproj.Up2Date
+E:\project\DemoCoreAPIClient\CoreApplication\DataAccess\obj\Debug\net6.0\DataAccess.dll
+E:\project\DemoCoreAPIClient\CoreApplication\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+E:\project\DemoCoreAPIClient\CoreApplication\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+E:\project\DemoCoreAPIClient\CoreApplication\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\55\Desktop\CoreApplicationNandini\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\55\Desktop\CoreApplicationNandini\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\55\Desktop\CoreApplicationNandini\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\55\Desktop\CoreApplicationNandini\DataAccess\bin\Debug\net6.0\DataEntity.dll
+C:\Users\55\Desktop\CoreApplicationNandini\DataAccess\bin\Debug\net6.0\DataEntity.pdb
+C:\Users\55\Desktop\CoreApplicationNandini\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\55\Desktop\CoreApplicationNandini\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55\Desktop\CoreApplicationNandini\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\55\Desktop\CoreApplicationNandini\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\55\Desktop\CoreApplicationNandini\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\55\Desktop\CoreApplicationNandini\DataAccess\obj\Debug\net6.0\DataAccess.csproj.Up2Date
+C:\Users\55\Desktop\CoreApplicationNandini\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\55\Desktop\CoreApplicationNandini\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\55\Desktop\CoreApplicationNandini\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\55\Desktop\CoreApplicationNandini\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataAccess\bin\Debug\net6.0\DataEntity.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataAccess\bin\Debug\net6.0\DataEntity.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataAccess\obj\Debug\net6.0\DataAccess.csproj.Up2Date
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha)\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataAccess\bin\Debug\net6.0\DataEntity.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataAccess\bin\Debug\net6.0\DataEntity.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataAccess\obj\Debug\net6.0\DataAccess.csproj.Up2Date
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\55\Desktop\CoreApplication(Nandini-Samiksha) Main Final\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
